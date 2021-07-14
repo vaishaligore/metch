@@ -1,0 +1,55 @@
+.navbar-nav li{ padding-right:17px; }
+.navbar-nav li{ border:1px solid #F00; text-align:center;}
+
+.nav-item a {color:#000000 !important; font-size:18px !important;    }
+
+
+.dropdown-menu{ background-color:#B5121A !important;}
+ .dropdown-menu a{  color:#FFFFFF !important;}
+ .dropdown-menu a:hover{  color:#000 !important;}
+
+.actives{ background-color:#B5121A !important; color:#fff !important; border-radius:2px !important; padding-left:10px !important; padding-right:10px !important;}
+
+
+/*product*/
+.master-holder h2 {
+
+    font-size: 30px;
+    color: #404040;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+.vc_custom_1503137824580 {
+
+    padding-top: 7px !important;
+
+}
+
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid > li {
+
+    margin-bottom: 35px;
+
+}
+.vc_separator.vc_sep_double {
+
+    height: 3px;
+
+}
+.vc_sep_pos_align_center {
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.vc_sep_width_20 {
+
+    width: 20%;
+
+}
+.navbar{ background-color:#F4F2EB !important;}
+.vc_custom_heading{ }
+.navbar{ padding-top:40px !important;}
+.bg-light{ background-color:#F4F2EB !important;}
+
+
